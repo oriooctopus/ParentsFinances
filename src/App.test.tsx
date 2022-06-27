@@ -2,7 +2,7 @@ import {
   getMonthsRemaining,
   MOM_HEALTHCARE_MONTHLY,
   MOM_MONTHLY_INCOME,
-} from "./App";
+} from "./getMonthsRemaining";
 
 const defaultProps = {
   principal: 1000,
