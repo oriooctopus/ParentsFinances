@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ParentsFinances/static/css/main.11c79a78.css",
+    "main.js": "/ParentsFinances/static/js/main.4ec202cc.js",
+    "static/js/787.495f6e14.chunk.js": "/ParentsFinances/static/js/787.495f6e14.chunk.js",
+    "index.html": "/ParentsFinances/index.html",
+    "main.11c79a78.css.map": "/ParentsFinances/static/css/main.11c79a78.css.map",
+    "main.4ec202cc.js.map": "/ParentsFinances/static/js/main.4ec202cc.js.map",
+    "787.495f6e14.chunk.js.map": "/ParentsFinances/static/js/787.495f6e14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11c79a78.css",
+    "static/js/main.4ec202cc.js"
+  ]
+}
