@@ -92,12 +92,19 @@ const Input = ({
   setVal: (val: number) => void;
   label: string;
 }) => (
-  <div style={{ marginBottom: "20px" }}>
-    <label style={{ marginRight: "20px" }}>{label}</label>
+  <div
+    style={{
+      marginBottom: "20px",
+      width: "100%",
+      display: "flex",
+      justifyContent: "space-between",
+    }}
+  >
+    <label>{label}</label>
     <input
       value={val}
       onChange={(e) => setVal(Number(e.target.value))}
-      style={{ height: "50px" }}
+      style={{ height: "50px", padding: "0 15px" }}
     />
   </div>
 );
